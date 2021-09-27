@@ -7,13 +7,16 @@ Full Stack Developer who loves coding and has a great passion about building int
 ## 🤝 Connect
 <p>
   <span><a href="mailto:pravton_dev@outlook.com" rel="noreferrer">
-    <img src="https://img.shields.io/badge/email-C5221E?style=for-the-badge&logo=minutemailer&logoColor=white" alt="html"> 
+    <img src="https://img.shields.io/badge/email-34A853?style=for-the-badge&logo=minutemailer&logoColor=white" alt="email"> 
   </a></span>
   <span><a href="https://www.linkedin.com/in/pravton/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a></span>
+    <span><a href="https://pravton.com"> 
+    <img src="https://img.shields.io/badge/Portfolio-cf455c?style=for-the-badge&logo=c&logoColor=white" alt="portfolio">
   </a></span>
   <span><a href="https://app.codesignal.com/profile/pravton"> 
-    <img src="https://img.shields.io/badge/CodeSignal-33485F?style=for-the-badge&logo=codersrank&logoColor=white" alt="html">
+    <img src="https://img.shields.io/badge/CodeSignal-33485F?style=for-the-badge&logo=codersrank&logoColor=white" alt="codesignal">
   </a></span>
 </p>
 
