@@ -1,6 +1,6 @@
 ## 🧔 Introduction
 
-### Hi there 👋, I am Clinton! 
+### Hi there, I am Clinton! <img src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836" alt="wave"></h2>
 
 Full Stack Developer who loves coding and has a great passion about building intuitive UI and dynamic user experience. Skills in JavaScript ES6+, CSS3, HTML5, responsive web design, front-end and back-end technologies. Additional experience and skills in Git, Adobe Photoshop, Illustrator and XD. Strengths in meeting deadlines, creativity, eager to learn and teamwork. I approach every project with the aspect of intuitive UI/UX and agile development and my aim is to provide the best user experience for the audience with creative UX/UI designs. I am excited to leverage my skills and abilities as a part of a quality-driven team to build a better experience for the end user.
 
@@ -63,3 +63,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
