@@ -1,6 +1,6 @@
 ## 🧔 Introduction
 
-### Hi there, I am Clinton! <img src="https://camo.githubusercontent.com/2c963913fd6b5e288e1062b53c8b5a6cab457c7827d3ecb2e29ca7c142875c5f/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d315644415452425a586e5238375f74765a46614731442d53724b74366f41485169" width="30" height="30" allow="autoplay" alt=""></h2>
+### Hi there, I am Clinton! <img src="https://camo.githubusercontent.com/2c963913fd6b5e288e1062b53c8b5a6cab457c7827d3ecb2e29ca7c142875c5f/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d315644415452425a586e5238375f74765a46614731442d53724b74366f41485169" width="30" height="30" alt="wave"></h2>
 
 Full Stack Developer who loves coding and has a great passion about building intuitive UI and dynamic user experience. Skills in JavaScript ES6+, CSS3, HTML5, responsive web design, front-end and back-end technologies. Additional experience and skills in Git, Adobe Photoshop, Illustrator and XD. Strengths in meeting deadlines, creativity, eager to learn and teamwork. I approach every project with the aspect of intuitive UI/UX and agile development and my aim is to provide the best user experience for the audience with creative UX/UI designs. I am excited to leverage my skills and abilities as a part of a quality-driven team to build a better experience for the end user.
 
