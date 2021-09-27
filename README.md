@@ -40,10 +40,9 @@ Full Stack Developer who loves coding and has a great passion about building int
 
 ## 📈 Stats
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/pravton">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pravton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pravton&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
