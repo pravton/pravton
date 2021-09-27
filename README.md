@@ -1,6 +1,6 @@
 ## 🧔 Introduction
 
-### Hi there, I am Clinton! <img src="https://drive.google.com/file/d/1VDATRBZXnR87_tvZFaG1D-SrKt6oAHQi/preview" width="640" height="480" allow="autoplay" alt="wave"></h2>
+### Hi there, I am Clinton! <img src="https://drive.google.com/uc?export=view&id=1VDATRBZXnR87_tvZFaG1D-SrKt6oAHQi" width="50" height="50" allow="autoplay" alt=""></h2>
 
 Full Stack Developer who loves coding and has a great passion about building intuitive UI and dynamic user experience. Skills in JavaScript ES6+, CSS3, HTML5, responsive web design, front-end and back-end technologies. Additional experience and skills in Git, Adobe Photoshop, Illustrator and XD. Strengths in meeting deadlines, creativity, eager to learn and teamwork. I approach every project with the aspect of intuitive UI/UX and agile development and my aim is to provide the best user experience for the audience with creative UX/UI designs. I am excited to leverage my skills and abilities as a part of a quality-driven team to build a better experience for the end user.
 
